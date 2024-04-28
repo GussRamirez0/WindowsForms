@@ -1,0 +1,16 @@
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\bin\Debug\net8.0-windows\Calculadora de Combustible.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\bin\Debug\net8.0-windows\Calculadora de Combustible.deps.json
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\bin\Debug\net8.0-windows\Calculadora de Combustible.runtimeconfig.json
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\bin\Debug\net8.0-windows\Calculadora de Combustible.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\bin\Debug\net8.0-windows\Calculadora de Combustible.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora_de_Combustible.Form1.resources
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.csproj.GenerateResource.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.AssemblyInfoInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.AssemblyInfo.cs
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.csproj.CoreCompileInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\refint\Calculadora de Combustible.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\Calculadora de Combustible.genruntimeconfig.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\Calculadora de Combustible\obj\Debug\net8.0-windows\ref\Calculadora de Combustible.dll

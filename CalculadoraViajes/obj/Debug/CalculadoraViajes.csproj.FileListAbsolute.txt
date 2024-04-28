@@ -1,0 +1,10 @@
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe.config
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\bin\Debug\CalculadoraViajes.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.AssemblyReference.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.Form1.resources
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.Properties.Resources.resources
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.GenerateResource.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.CoreCompileInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Tarea Windows Forms\CalculadoraViajes\obj\Debug\CalculadoraViajes.pdb
